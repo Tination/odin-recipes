@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(149, 43, 202);
+}
+
+.header {
+    border: 2px dotted white;
+    color: white;
+    text-align: center;
+}
+
+.main-p {
+    background-color: rgb(193, 151, 214);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 800;
+    font-style: oblique;
+    text-align: center;
+}
+
+.rec-link {
+    text-align: center;
+}
